@@ -129,4 +129,4 @@ A comunicação serial é realizada pela UART0 a uma taxa de 9600 bps. O sistema
 
 Assista ao funcionamento do projeto no seguinte link:
 
-[Link para o vídeo demonstrativo]
+[Link para o vídeo demonstrativo](https://youtu.be/PLVVGG2ULew)
